@@ -6,4 +6,4 @@
 - summary: `npm install --python=python2.7`
 1. `npm start` VoCode project first (local host)
 1. close it out so you don't have 2 things accessing the mic
-1. `npm start` the electron app
+1. `npm start` the electron app in new terminal/iterm tab
